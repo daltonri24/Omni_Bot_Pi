@@ -1,0 +1,5 @@
+/home/pi/Documents/Omni_Bot_PI/micro_ros_pi/build/pioasm-install/pioasm/pioasm
+/home/pi/Documents/Omni_Bot_PI/micro_ros_pi/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/pi/Documents/Omni_Bot_PI/micro_ros_pi/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/pi/Documents/Omni_Bot_PI/micro_ros_pi/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/pi/Documents/Omni_Bot_PI/micro_ros_pi/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
